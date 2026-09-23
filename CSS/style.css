@@ -1,0 +1,15 @@
+body{
+    font-family:;
+    background-color: rgb(134, 221, 107);
+}
+
+header {
+    background-color:#4fa75e ;
+}
+
+footer{
+    background-color:#3b8346;
+    text-align: center; 
+    padding: 10px;
+    color: #040f08;
+}
