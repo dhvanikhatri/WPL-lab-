@@ -7,6 +7,10 @@ header {
     background-color:#4fa75e ;
 }
 
+main{
+     background-color: rgb(134, 221, 107);
+}
+
 footer{
     background-color:#3b8346;
     text-align: center; 
